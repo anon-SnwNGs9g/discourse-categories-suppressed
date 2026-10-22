@@ -1,3 +1,3 @@
 en:
   site_settings:
-    categories_suppressed_from_latest: "Suppress categories from latest topics page."
+    tags_suppressed_from_latest: "Hide topics with any of these tags from the global latest topics list by default, except topics the user tracks or watches. Users can opt out in Preferences → Interface. Category and tag pages are unaffected."

@@ -1,0 +1,7 @@
+en:
+  js:
+    tag_suppression:
+      preferences:
+        title: "Latest topics"
+        show_topics: "Show topics with tags hidden by default"
+        instructions: "Topics you track or watch are already exempt from this tag filter. Your own mute settings still apply."

@@ -1,0 +1,7 @@
+zh_CN:
+  js:
+    tag_suppression:
+      preferences:
+        title: "最新话题"
+        show_topics: "显示带有默认隐藏标签的话题"
+        instructions: "已跟踪或关注的话题会自动豁免这层标签过滤；你自己设置的静音仍然生效。"
